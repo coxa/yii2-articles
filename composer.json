@@ -1,5 +1,5 @@
 {
-    "name": "cinghie/yii2-articles",
+    "name": "coxa/yii2-articles",
     "description": "Yii2 Articles to create, manage, and delete articles in a Yii2 site.",
     "keywords": ["yii2", "module", "articles", "contents","category","seo"],
     "homepage": "https://github.com/cinghie/yii2-articles",
@@ -17,7 +17,7 @@
 		"yiisoft/yii2-imagine": "*",
 		"kartik-v/yii2-grid": "*",
 		"kartik-v/yii2-markdown": "*",
-        "kartik-v/yii2-mpdf": "*",
+        	"kartik-v/yii2-mpdf": "*",
 		"kartik-v/yii2-widgets": "*",
 		"2amigos/yii2-ckeditor-widget": "*",
         "2amigos/yii2-tinymce-widget": "*"
